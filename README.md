@@ -5,7 +5,7 @@
 * Instalar o Arduino IDE.
 * Dentro do Arduino IDE instalar as depedências:
 
-* Criar um arquivo "credencias.h" no diretório codigo-iot, como por exemplo:
+* Criar um arquivo "credencias.h" no diretório codigo-iot/atividade_praitca, como por exemplo:
 ```cpp
 #ifndef CREDENCIAIS_H
 #define CREDENCIAIS_H
