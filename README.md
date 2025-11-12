@@ -1,2 +1,6 @@
-# atividade-pratica-PSE
-Desenvolvimento de um sistema embarcado tendo como base o NodeMCU ESP32.
+# Atividade prática do componente de Programação Para Sistemas Embarcados
+
+## Integrantes:
+* Amanda Naraoka
+* Leonardo de Almeida Pereira
+* Vinicius Lustosa Silva
