@@ -4,6 +4,9 @@
 
 * Instalar o Arduino IDE.
 * Dentro do Arduino IDE instalar as depedências:
+    * ESP8266WiFi
+    * PubSubClient
+    * DHT
 
 * Criar um arquivo "credencias.h" no diretório codigo-iot/atividade_pratica, como por exemplo:
 ```cpp
